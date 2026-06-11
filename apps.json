@@ -6,7 +6,7 @@
             "appName": "Opak Mobil",
             "version": "1.0.0",
             "buildNumber": 1,
-            "forceUpdate": false,
+            "forceUpdate": true,
             "updateDescription": [],
             "releaseDate": "2026-06-11T12:30:00Z"
         },
