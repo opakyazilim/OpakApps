@@ -33,7 +33,7 @@
             "appName": "Opak Depo",
             "version": "1.0.0",
             "buildNumber": 2,
-            "forceUpdate": false,
+            "forceUpdate": true,
             "updateDescription": [
                 "Uygulama arayüz düzenlemeleri",
                 "Uygulama deneme deneme deneme",
