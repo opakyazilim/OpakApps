@@ -1,0 +1,55 @@
+{
+    "lastUpdated": "2026-06-11T12:45:00Z",
+    "applications": [
+        {
+            "appId": "mobil",
+            "appName": "Opak Mobil",
+            "version": "1.0.0",
+            "buildNumber": 1,
+            "forceUpdate": false,
+            "updateDescription": [],
+            "releaseDate": "2026-06-11T12:30:00Z"
+        },
+        {
+            "appId": "mes",
+            "appName": "Opak Mes",
+            "version": "1.0.",
+            "buildNumber": 1,
+            "forceUpdate": true,
+            "updateDescription": [],
+            "releaseDate": "2026-06-10T18:15:00Z"
+        },
+        {
+            "appId": "gorevtakip",
+            "appName": "Opak Görev Takip",
+            "version": "1.0.0",
+            "buildNumber": 1,
+            "forceUpdate": false,
+            "updateDescription": [],
+            "releaseDate": "2026-06-09T09:00:00Z"
+        },
+        {
+            "appId": "depo",
+            "appName": "Opak Depo",
+            "version": "1.0.0",
+            "buildNumber": 2,
+            "forceUpdate": false,
+            "updateDescription": [
+                "Uygulama arayüz düzenlemeleri",
+                "Uygulama deneme deneme deneme",
+                "Uygulama arayüz düzenlemeleri",
+                "Uygulama deneme deneme deneme"
+            ],
+            "releaseDate": "2026-06-09T09:00:00Z"
+        },
+        {
+            "appId": "ai",
+            "appName": "Opak AI",
+            "version": "1.0.0",
+            "buildNumber": 1,
+            "forceUpdate": false,
+            "updateDescription": [],
+            "releaseDate": "2026-06-09T09:00:00Z"
+        }
+    ]
+}
