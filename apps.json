@@ -31,11 +31,11 @@
         {
             "appId": "depo",
             "appName": "Opak Depo",
-            "version": "1.0.1",
-            "buildNumber": 3,
+            "version": "1.0.2",
+            "buildNumber": 4,
             "forceUpdate": false,
             "updateDescription": [
-                "Uygulama arayüz düzenlemeleri"
+                "Emir Kalem Sayısı Görünümü"
             ],
             "releaseDate": "2026-08-03T15:45:00Z"
         },
