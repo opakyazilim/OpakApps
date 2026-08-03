@@ -31,16 +31,13 @@
         {
             "appId": "depo",
             "appName": "Opak Depo",
-            "version": "1.0.0",
-            "buildNumber": 1,
+            "version": "1.0.1",
+            "buildNumber": 2,
             "forceUpdate": false,
             "updateDescription": [
                 "Uygulama arayüz düzenlemeleri",
-                "Uygulama deneme deneme deneme",
-                "Uygulama arayüz düzenlemeleri",
-                "Uygulama deneme deneme deneme"
             ],
-            "releaseDate": "2026-06-09T09:00:00Z"
+            "releaseDate": "2026-08-03T15:45:00Z"
         },
         {
             "appId": "ai",
