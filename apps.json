@@ -31,12 +31,12 @@
         {
             "appId": "depo",
             "appName": "Opak Depo",
-            "version": "1.1.0",
-            "buildNumber": 5,
+            "version": "1.1.1",
+            "buildNumber": 6,
             "forceUpdate": true,
             "updateDescription": [
-                "Eksik Emir Kapatma",
-                "Sistemsel Düzenlemeler"
+                "Mal Kabul Sistemi",
+                "Görünüm Düzenlemeleri"
             ],
             "releaseDate": "2026-08-03T15:45:00Z"
         },
