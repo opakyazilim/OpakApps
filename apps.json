@@ -31,14 +31,13 @@
         {
             "appId": "depo",
             "appName": "Opak Depo",
-            "version": "1.1.2",
-            "buildNumber": 7,
+            "version": "1.2.0",
+            "buildNumber": 8,
             "forceUpdate": true,
             "updateDescription": [
-                "Mal Kabul Sistemi",
-                "Görünüm Düzenlemeleri"
+                "Mal Kabul Sistemi Güncellemesi",
             ],
-            "releaseDate": "2026-08-03T15:45:00Z"
+            "releaseDate": "2026-08-20T14:15:00Z"
         },
         {
             "appId": "ai",
