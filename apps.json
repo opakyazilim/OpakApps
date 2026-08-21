@@ -13,7 +13,7 @@
         {
             "appId": "mes",
             "appName": "Opak Mes",
-            "version": "1.0.",
+            "version": "1.0.0",
             "buildNumber": 1,
             "forceUpdate": true,
             "updateDescription": [],
@@ -32,10 +32,10 @@
             "appId": "depo",
             "appName": "Opak Depo",
             "version": "1.2.0",
-            "buildNumber": 9,
+            "buildNumber": 8,
             "forceUpdate": true,
             "updateDescription": [
-                "Mal Kabul Sistemi Güncellemesi",
+                "Mal Kabul Sistemi Güncellemesi"
             ],
             "releaseDate": "2026-08-20T14:15:00Z"
         },
