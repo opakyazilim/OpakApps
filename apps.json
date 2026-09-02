@@ -31,8 +31,8 @@
         {
             "appId": "depo",
             "appName": "Opak Depo",
-            "version": "1.2.5",
-            "buildNumber": 10,
+            "version": "1.2.6",
+            "buildNumber": 11,
             "forceUpdate": true,
             "updateDescription": [
                 "Emir Toplama İşlemleri Düzenleme"
