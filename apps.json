@@ -31,11 +31,11 @@
         {
             "appId": "depo",
             "appName": "Opak Depo",
-            "version": "1.2.6",
-            "buildNumber": 11,
+            "version": "1.2.7",
+            "buildNumber": 12,
             "forceUpdate": true,
             "updateDescription": [
-                "Emir Toplama İşlemleri Düzenleme"
+                "Mal Kabul Sistem Güncellemesi"
             ],
             "releaseDate": "2026-08-20T14:15:00Z"
         },
