@@ -31,7 +31,7 @@
         {
             "appId": "depo",
             "appName": "Opak Depo",
-            "version": "1.2.7",
+            "version": "1.2.6",
             "buildNumber": 12,
             "forceUpdate": true,
             "updateDescription": [
