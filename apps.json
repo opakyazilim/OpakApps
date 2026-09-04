@@ -31,11 +31,13 @@
         {
             "appId": "depo",
             "appName": "Opak Depo",
-            "version": "1.2.9",
-            "buildNumber": 15,
+            "version": "1.3.0",
+            "buildNumber": 16,
             "forceUpdate": true,
             "updateDescription": [
-                "Raf Sistemi Güncellemesi"
+                "Mal Kabul Sistemi",
+                "Raf Transfer Sistemi",
+                "Raf Yerleştirme Sistemi"
             ],
             "releaseDate": "2026-08-20T14:15:00Z"
         },
