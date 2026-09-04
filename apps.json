@@ -31,8 +31,8 @@
         {
             "appId": "depo",
             "appName": "Opak Depo",
-            "version": "1.2.6",
-            "buildNumber": 12,
+            "version": "1.2.7",
+            "buildNumber": 13,
             "forceUpdate": true,
             "updateDescription": [
                 "Mal Kabul Sistem Güncellemesi"
