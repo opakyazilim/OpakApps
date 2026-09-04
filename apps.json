@@ -31,8 +31,8 @@
         {
             "appId": "depo",
             "appName": "Opak Depo",
-            "version": "1.2.8",
-            "buildNumber": 14,
+            "version": "1.2.9",
+            "buildNumber": 15,
             "forceUpdate": true,
             "updateDescription": [
                 "Raf Sistemi Güncellemesi"
