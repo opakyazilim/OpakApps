@@ -31,15 +31,11 @@
         {
             "appId": "depo",
             "appName": "Opak Depo",
-            "version": "1.0.0",
-            "buildNumber": 1,
+            "version": "1.0.1",
+            "buildNumber": 2,
             "forceUpdate": true,
             "updateDescription": [
-                "Performans iyileştirmeleri",
-                "Mükerrer kayıt önlendi",
-                "Seri takibi geliştirildi",
-                "Raf ekranları yenilendi",
-                "Hata mesajları iyileştirildi"
+                "Mal Kabul Çalışma Sistemi Güncellemesi"
         ],
             "releaseDate": "2026-11-11T12:00:00Z"
         },
