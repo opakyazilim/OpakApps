@@ -5,7 +5,7 @@
             "appId": "mobil",
             "appName": "Opak Mobil",
             "version": "1.0.0",
-            "buildNumber": 1,
+            "buildNumber": 2,
             "forceUpdate": true,
             "updateDescription": [],
             "releaseDate": "2026-06-11T12:30:00Z"
@@ -35,12 +35,12 @@
             "buildNumber": 1,
             "forceUpdate": true,
             "updateDescription": [
-    "Performans iyileştirmeleri",
-    "Mükerrer kayıt önlendi",
-    "Seri takibi geliştirildi",
-    "Raf ekranları yenilendi",
-    "Hata mesajları iyileştirildi"
-],
+                "Performans iyileştirmeleri",
+                "Mükerrer kayıt önlendi",
+                "Seri takibi geliştirildi",
+                "Raf ekranları yenilendi",
+                "Hata mesajları iyileştirildi"
+        ],
             "releaseDate": "2026-11-11T12:00:00Z"
         },
         {
