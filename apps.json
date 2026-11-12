@@ -4,10 +4,12 @@
         {
             "appId": "mobil",
             "appName": "Opak Mobil",
-            "version": "1.0.0",
-            "buildNumber": 1,
-            "forceUpdate": true,
-            "updateDescription": [],
+            "version": "1.0.1",
+            "buildNumber": 2,
+            "forceUpdate": false,
+            "updateDescription": [
+                "Cari Çalışma Sistemi Güncellemesi"
+            ],
             "appstoreLink": "",
             "releaseDate": "2026-06-11T12:30:00Z"
         },
