@@ -5,9 +5,10 @@
             "appId": "mobil",
             "appName": "Opak Mobil",
             "version": "1.0.0",
-            "buildNumber": 2000,
+            "buildNumber": 1,
             "forceUpdate": true,
             "updateDescription": [],
+            "appstoreLink": "",
             "releaseDate": "2026-06-11T12:30:00Z"
         },
         {
