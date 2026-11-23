@@ -34,12 +34,12 @@
         {
             "appId": "depo",
             "appName": "Opak Depo",
-            "version": "1.0.2",
-            "buildNumber": 3,
+            "version": "1.0.3",
+            "buildNumber": 4,
             "forceUpdate": true,
             "updateDescription": [
-                "Perakende Sipariş Sistemi",
-                "Ambalaj ve Paketleme Sistemi"
+                "Mal Kabul Düzeltmeleri",
+                "Sistem Hızlandırmaları"
                 
         ],
             "releaseDate": "2026-11-11T12:00:00Z"
