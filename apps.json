@@ -34,11 +34,11 @@
         {
             "appId": "depo",
             "appName": "Opak Depo",
-            "version": "1.0.3",
-            "buildNumber": 4,
+            "version": "1.0.4",
+            "buildNumber": 5,
             "forceUpdate": true,
             "updateDescription": [
-                "Mal Kabul Düzeltmeleri",
+                "Yeni Özellikler",
                 "Sistem Hızlandırmaları"
                 
         ],
